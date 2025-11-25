@@ -3,6 +3,7 @@ A simple Pokémon search engine that allows users to search for Pokémon by name
 
 ## Features
 **Search for a Pokémon by name**
+
 **Display rich Pokémon details such as:**
 
     1.Abilities
@@ -10,6 +11,7 @@ A simple Pokémon search engine that allows users to search for Pokémon by name
     3.Stats (HP, Attack, Defense, etc.)
     4.Base experience
     5.Images
+    
  **Fast response using caching for repeated queries.**
 
 # Architecture
@@ -34,3 +36,23 @@ The project consists of two main components:
 2.Displays Pokémon data in a user-friendly and visually appealing way.
 
 3.Supports dynamic rendering of attributes, images, and stats.
+
+## Submission
+
+✅Code is available in this public GitHub repository.
+
+✅Link to repository: <insert-your-github-repo-link>
+
+✅The submission has been sent via email without changing the original subject line.
+
+## Evaluation Criteria
+
+✅Code quality, handling of edge cases, and error scenarios.
+
+✅Clean and extensible project structure.
+
+✅Good JavaScript/Java coding practices.
+
+✅Overall UI look and feel.
+
+✅Performance and caching efficiency.
